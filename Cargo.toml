@@ -1,0 +1,8 @@
+[package]
+name = "raycaster"
+version = "0.0.1"
+authors = ["Leon Rische <hello@l3kn.de>"]
+
+[dependencies]
+rand = "*"
+image = "*"
